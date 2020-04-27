@@ -32,8 +32,7 @@ linked_username: hpcc-systems
 
 # Build settings
 # Build settings
-theme: jekyll-theme-midnight
-#minima
+theme: minima
 plugins:
   - jekyll-feed
 # The following items will not be processed, by default.
